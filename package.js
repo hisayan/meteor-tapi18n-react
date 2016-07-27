@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'gwendall:tapi18n-react',
+  name: 'hisayan:tapi18n-react',
   summary: 'React component for TAPi18n',
   git: 'https://github.com/gwendall/meteor-tapi18n-react.git',
   version: '0.1.2'
